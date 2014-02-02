@@ -32,7 +32,7 @@ http://ios.biomsoft.com/2011/08/27/zipkit-example/
 19) UIDocumentInteractionController for previewing any type of documents/files is neglected, but according to me it is very useful tool provided by apple since ver. 3.1 or 3.2. Easy to use and very adaptable. Can display pdf's, docs and many other documents, play video and audio files, view images etc.
 Many other stuff. Just check it out. Still not complete, so u guys can make some useful additions to it. This kind to structural implementation could be used with server communications with cloud for file handling. So +Add some files in the document directory of the project and play with it.
 
-Any queries, just mail me at jai.dhorajia@gmail.com  .
+Any queries, just mail me at jai.dhorajia@gmail.com
 
 Thank you,
 Cian
