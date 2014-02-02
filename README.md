@@ -3,10 +3,12 @@ FileSystem
 
 App to manage files in native iOS. All possible file operations, grid view, table list, animations.
 
-FileSystem in iOS
+Filesystem in iOS
 
 During the process of working on a project. Had a requirement to develop a fully dynamic file handling/management system. So to get a better idea i started developing an example app to do it. So I started from scratch, developing Filesystem project. Have implemented many features that are not easy to find on the internet. This might be helpful in many aspects.
+
 Have tried to write the code as dynamically as possible. Implemented the functions using least number of global variables, which makes the functions reusable.
+
 Few features are as such:
 1) Accordian heirarchy for file selection implemented in UITableview.
 https://github.com/appsome/AccordionView
@@ -30,9 +32,10 @@ http://ios.biomsoft.com/2011/08/27/zipkit-example/
 17) Detailed file description like name, size, number of files in a folder, mod date, created date and a few more details.
 18) Mime type/File type finding without internet.(This could be used extensively.)
 19) UIDocumentInteractionController for previewing any type of documents/files is neglected, but according to me it is very useful tool provided by apple since ver. 3.1 or 3.2. Easy to use and very adaptable. Can display pdf's, docs and many other documents, play video and audio files, view images etc.
+
 Many other stuff. Just check it out. Still not complete, so u guys can make some useful additions to it. This kind to structural implementation could be used with server communications with cloud for file handling. So +Add some files in the document directory of the project and play with it.
 
-Any queries, just mail me at jai.dhorajia@gmail.com  .
+Any queries, just mail me at jai.dhorajia@gmail.com
 
 Thank you,
 Cian
